@@ -17,6 +17,10 @@ function App() {
         >
           MASTER
         </a>
+        <div>BLAH</div>
+        <div>BLAH</div>
+        <div>BLAH</div>
+        <div>BLAH</div>
       </header>
     </div>
   );
