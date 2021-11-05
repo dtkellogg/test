@@ -21,6 +21,9 @@ function App() {
         <div>BLAH</div>
         <div>BLAH</div>
         <div>BLAH</div>
+        <div>BLAH</div>
+        <div>BLAH</div>
+        <div>BLAH</div>
       </header>
     </div>
   );
